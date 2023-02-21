@@ -3,9 +3,11 @@
 ## About Me 🍪
 
 
-- I'm a Full Stack Web Developer
+- I'm a mostly Front-End Web Developer
 
-- I develop websites with (Vue, Javascript, HTML, CSS, Bootstrap & Python)
+- I'm currently working on the Beat Saber Hall of Fame
+
+- I develop websites with (Vue, Javascript, HTML, CSS, Bootstrap, Python & Nuxt)
 
 - I make websites for fun
 
@@ -17,7 +19,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=321rnr&theme=github_dark&layout=compact" alt="321rnr stats card" /></p>
 
-<a href="https://www.w3schools.com/js/" target="blank">
+<a href="https://www.w3schools.com/html/" target="blank">
 
 <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="H5" height="40" width="40" />
 
@@ -29,57 +31,51 @@
 
 </a>
 
-<a href="https://www.mysql.com/" target="blank">
+<a href="https://vuejs.org/" target="blank">
 
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40" />
-
-</a>
-
-<a href="https://www.microsoft.com/en-us/sql-server" target="blank">
-
-<img align="center" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MsSQL" height="40" width="40" />
+<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="VueJS" height="40" width="40" />
 
 </a>
 
-<a href="https://www.sqlite.org/" target="blank">
+<a href="https://www.javascript.com/" target="blank">
 
-<img align="center" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" height="40" width="40" />
-
-</a>
-
-<a href="https://www.djangoproject.com/" target="blank">
-
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" height="40" width="40" />
+<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" height="40" width="40" />
 
 </a>
 
-<a href="https://dotnet.microsoft.com/" target="blank">
+<a href="https://www.w3schools.com/css/" target="blank">
 
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="Dotnet" height="40" width="40" />
+<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" height="40" width="40" />
 
 </a>
 
-<a href="https://flask.palletsprojects.com/" target="blank">
+<a href="https://nuxtjs.org/" target="blank">
 
-<img align="center" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" height="40" width="40" />
+<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" alt="NuxtJS" height="40" width="40" />
+
+</a>
+
+<a href="https://getbootstrap.com/" target="blank">
+
+<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="40" width="40" />
+
+</a>
+
+<a href="https://jquery.com/" target="blank">
+
+<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="Jquery" height="40" width="40" />
+
+</a>
+
+<a href="https://www.npmjs.com/" target="blank">
+
+<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPMJS" height="40" width="40" />
 
 </a>
 
 <a href="https://www.photoshop.com/en" target="blank">
 
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" height="40" width="40" />
-
-</a>
-
-<a href="https://postman.com" target="blank">
-
-<img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="40" width="40" />
-
-</a>
-
-<a href="https://unity.com/" target="blank">
-
-<img align="center" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" height="40" width="40" />
 
 </a>
 
